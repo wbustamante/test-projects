@@ -1,0 +1,12 @@
+mat-card {
+    margin-bottom: 10px;
+    max-width: 400px;
+}
+mat-card-header {
+    background-color: rgb(228, 226, 226);
+}
+mat-card-header div {
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
